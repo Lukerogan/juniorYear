@@ -1,0 +1,24 @@
+.row, .col{
+    border: 1px solid;
+    border-style: hidden;
+  }
+  
+  table {width: 100%;
+}
+h1{
+text-align: center;
+}
+th {
+background-color: gray;
+color: black;
+}
+.grey{background-color: gray;
+text-align: center;}
+.p1{background-color: #cacd97;}
+.p4{background-color: #feff91;}
+.p3{ background-color: #01ffcd;}
+.p2{ background-color: #fbce95;}
+.p5{background-color: #ffcdfe;}
+.p7{background-color: #caff99;}
+.p6{background-color: #9bdc88;}
+.lunch{text-align: center; background-color:#ccceff;} 
