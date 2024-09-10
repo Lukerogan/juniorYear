@@ -1,16 +1,21 @@
 .row, .col{
     border: 1px solid;
-    border-style: hidden;
+    border-style:solid;
   }
   
-  table {width: 100%;
+  .blockscol{
+    max-width: 7%;
+  }
+
+  .container {width: 100%;
 }
 h1{
 text-align: center;
 }
-th {
+.blocks {
 background-color: gray;
 color: black;
+text-align: center;
 }
 .grey{background-color: gray;
 text-align: center;}
